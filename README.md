@@ -1,5 +1,5 @@
 # Online-Muncipality-Administration
-Project created based on ASP.net, C# and database sql. project created with Visual Studio.net
+Project created is based on ASP.net, C# and database sql and used environment Visual Studio.net
 
 <b><p>Municipality is an administrative entity composed of a clearly defined territory and its
 population and commonly denotes a city, town, or village, or a small grouping of them. A
